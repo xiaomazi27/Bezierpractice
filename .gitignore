@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+ipch/
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.suo
+*.user
+*.vcxproj.user
+*.sdf
+*.tlog
+*.log
+*.lastbuildstate
+
+# 系统文件
+.DS_Store
+Thumbs.db
